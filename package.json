@@ -5,10 +5,22 @@
     "deploy": "gh-pages -d dist"
   },
   "devDependencies": {
-    "vite": "^2.6.4"
+    "vite": "^2.6.14"
   },
   "dependencies": {
     "gh-pages": "^3.2.3",
     "three": "^0.134.0"
-  }
+  },
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thecptwaffles/THREE.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thecptwaffles/THREE.js/issues"
+  },
+  "homepage": "https://github.com/thecptwaffles/THREE.js#readme",
+  "description": ""
 }
